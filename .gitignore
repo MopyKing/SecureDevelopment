@@ -9,5 +9,5 @@ source/content/static/
 env/
 tmp/
 venv/
-
+db
 source/db.sqlite3
